@@ -1,0 +1,184 @@
+{
+  "pipeline_overview": {
+    "last_updated": "2025-01-XX",
+    "total_prospects": 5,
+    "total_potential_revenue": "$40,000",
+    "average_deal_size": "$8,000",
+    "current_quarter_target": "$25,000"
+  },
+  "prospects": [
+    {
+      "company": "Fleetmaster Express",
+      "contact": "Carl Bumgarner",
+      "title": "President & CEO",
+      "package": "Enterprise",
+      "value": "$15,000",
+      "stage": "Outreach",
+      "close_probability": "85%",
+      "expected_close_date": "2025-02-15",
+      "last_contact": "2025-01-XX",
+      "next_action": "LinkedIn connection + Email #1",
+      "notes": "Family business, 300+ trucks, 8 terminals. Strong growth story.",
+      "pain_points": [
+        "Multi-terminal coordination",
+        "Manual dispatch across 8 locations",
+        "Customer communication overhead"
+      ],
+      "activities": [
+        {
+          "date": "2025-01-XX",
+          "type": "research",
+          "description": "Company intelligence gathered",
+          "outcome": "Profile completed"
+        }
+      ]
+    },
+    {
+      "company": "Riverside Logistics Services",
+      "contact": "Keith Hamlett",
+      "title": "President",
+      "package": "Professional",
+      "value": "$7,500",
+      "stage": "Outreach",
+      "close_probability": "80%",
+      "expected_close_date": "2025-02-20",
+      "last_contact": "2025-01-XX",
+      "next_action": "LinkedIn connection + 3PL email sequence",
+      "notes": "3PL specialist, 300K sq ft warehouse, food/medical focus",
+      "pain_points": [
+        "Manual client reporting",
+        "Warehouse optimization",
+        "Multi-modal coordination"
+      ],
+      "activities": [
+        {
+          "date": "2025-01-XX",
+          "type": "research",
+          "description": "3PL market analysis completed",
+          "outcome": "Profile completed"
+        }
+      ]
+    },
+    {
+      "company": "VMW Express LLC",
+      "contact": "Saeed Toifghi",
+      "title": "General Manager",
+      "package": "Professional",
+      "value": "$7,500",
+      "stage": "Outreach",
+      "close_probability": "75%",
+      "expected_close_date": "2025-02-25",
+      "last_contact": "2025-01-XX",
+      "next_action": "LinkedIn connection + express delivery email",
+      "notes": "Express delivery specialist, airport operations, 35K sq ft cross-dock",
+      "pain_points": [
+        "Cross-dock efficiency",
+        "Airport coordination",
+        "Real-time customer visibility"
+      ],
+      "activities": [
+        {
+          "date": "2025-01-XX",
+          "type": "research",
+          "description": "Express delivery market research",
+          "outcome": "Profile completed"
+        }
+      ]
+    },
+    {
+      "company": "Ceres Transport LLC",
+      "contact": "Unknown",
+      "title": "Owner/Manager",
+      "package": "Foundation",
+      "value": "$2,500",
+      "stage": "Research",
+      "close_probability": "70%",
+      "expected_close_date": "2025-03-01",
+      "last_contact": "Never",
+      "next_action": "Identify decision maker, research growth stage messaging",
+      "notes": "Growth stage company, Richmond-based, 11-50 employees",
+      "pain_points": [
+        "Manual processes limiting growth",
+        "Competitive disadvantage vs automated carriers",
+        "Limited operational visibility"
+      ],
+      "activities": [
+        {
+          "date": "2025-01-XX",
+          "type": "research",
+          "description": "Basic company intelligence gathered",
+          "outcome": "Profile created"
+        }
+      ]
+    },
+    {
+      "company": "Pete Burr Machine Works Inc",
+      "contact": "Unknown",
+      "title": "Owner/Manager",
+      "package": "Professional",
+      "value": "$7,500",
+      "stage": "Research",
+      "close_probability": "65%",
+      "expected_close_date": "2025-03-10",
+      "last_contact": "Never",
+      "next_action": "Research manufacturing logistics needs, identify decision maker",
+      "notes": "Manufacturing with logistics component, specialized transport needs",
+      "pain_points": [
+        "Manufacturing-logistics integration",
+        "Specialized transport coordination",
+        "Quality compliance documentation"
+      ],
+      "activities": [
+        {
+          "date": "2025-01-XX",
+          "type": "research",
+          "description": "Manufacturing logistics analysis",
+          "outcome": "Profile created"
+        }
+      ]
+    }
+  ],
+  "stage_definitions": {
+    "Research": "Initial company intelligence and decision maker identification",
+    "Outreach": "Active LinkedIn and email outreach in progress",
+    "Discovery": "Qualification call scheduled or completed",
+    "Demo": "Product demonstration scheduled or completed",
+    "Proposal": "Formal proposal submitted and under review",
+    "Negotiation": "Terms discussion and contract refinement",
+    "Closed-Won": "Contract signed and implementation scheduled",
+    "Closed-Lost": "Opportunity lost to competitor or no decision"
+  },
+  "conversion_funnel": {
+    "research_to_outreach": "100%",
+    "outreach_to_discovery": "60%",
+    "discovery_to_demo": "80%",
+    "demo_to_proposal": "90%",
+    "proposal_to_close": "70%",
+    "overall_conversion": "30%"
+  },
+  "activity_tracking": {
+    "emails_sent": 0,
+    "linkedin_connections": 0,
+    "discovery_calls": 0,
+    "demos_delivered": 0,
+    "proposals_sent": 0,
+    "closed_deals": 0
+  },
+  "revenue_projections": {
+    "conservative_scenario": {
+      "close_rate": "60%",
+      "expected_revenue": "$17,500",
+      "timeline": "30-45 days"
+    },
+    "target_scenario": {
+      "close_rate": "75%",
+      "expected_revenue": "$30,000",
+      "timeline": "30-45 days"
+    },
+    "optimistic_scenario": {
+      "close_rate": "90%",
+      "expected_revenue": "$37,500",
+      "timeline": "30-45 days"
+    }
+  }
+}
