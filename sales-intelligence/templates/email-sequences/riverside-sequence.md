@@ -83,17 +83,15 @@ Ethan
 
 Keith,
 
-"Our clients used to call us constantly for updates. Now they have better visibility into their operations than they do with their own internal systems."
+The pattern we see in 3PLs that invest in client-facing technology:
 
-That's from a 3PL president who implemented our client portal system six months ago. His results:
-• 98% client retention rate (up from 87%)
-• 34% increase in revenue per client
-• 60% reduction in customer service calls
-• Two major clients increased their volume by 40%
+When clients can see real-time data and predictive analytics, they view the 3PL as an extension of their team rather than just a vendor. The results across the industry are consistent:
+- Higher client retention (technology creates switching costs)
+- Increased revenue per client (visibility drives volume growth)
+- Fewer customer service calls (self-service data access)
+- Clients competing on capabilities, not just price
 
-The key insight: when clients can see real-time data and predictive analytics, they view you as an extension of their team rather than just a vendor.
-
-"We've gone from competing on price to being irreplaceable," he told me last week.
+The key insight: when clients can see their data in real-time, you move from "vendor" to "irreplaceable partner."
 
 Would a conversation with him be valuable?
 

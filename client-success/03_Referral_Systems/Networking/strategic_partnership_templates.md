@@ -85,7 +85,7 @@ Dear [Contact Name],
 I hope this message finds you well. I'm writing to explore thought leadership and speaking opportunities with [Association Name] around business automation and digital transformation.
 
 EXPERTISE OVERVIEW
-Entelech has successfully implemented enterprise automation solutions for [X] companies in the [industry] sector, achieving average ROI of [XXX]% within [X] months. Our clients have seen:
+Entelech specializes in RevOps and AI consulting for [industry] businesses, focusing on measurable improvements in lead conversion, sales velocity, and client retention. Our approach delivers:
 - [Specific industry benefit 1]
 - [Specific industry benefit 2]
 - [Specific industry benefit 3]

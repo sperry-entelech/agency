@@ -92,7 +92,7 @@ What Made This Implementation Successful:
 2. **Custom Configuration**: Tailored specifically to [Industry] workflows
 3. **Seamless Integration**: Connected existing systems without disruption
 4. **Ongoing Optimization**: Continuous improvement driving additional value
-5. **White-Glove Support**: 24/7 technical support with dedicated success management
+5. **White-Glove Support**: Dedicated technical support with success management
 
 LESSONS LEARNED
 Key Success Factors:

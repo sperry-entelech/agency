@@ -15,15 +15,18 @@
 | **Ongoing Support** | 24/7 dedicated support | Business hours only | ⭐⭐ Entelech |
 | **ROI Timeline** | 30-90 days | 6-18 months | ⭐⭐⭐ Entelech |
 | **Change Management** | Minimal disruption | Extensive training required | ⭐⭐ Entelech |
-| **Technology Stack** | Azure + n8n + AI (proven) | Various (experimental) | ⭐⭐ Entelech |
+| **AI Approach** | Bespoke agents built on client operations | Off-the-shelf SaaS + configuration | ⭐⭐⭐ Entelech |
+| **Learning/Improvement** | Agents improve weekly through human feedback (70% → 99%+) | Static after implementation | ⭐⭐⭐ Entelech |
+| **Technology Stack** | n8n + AI + client's existing stack | Various (experimental) | ⭐⭐ Entelech |
 | **Success Guarantee** | 90-day ROI guarantee | No guarantees typical | ⭐⭐ Entelech |
 | **Industry Expertise** | Transportation/Professional Services | Generalist approach | ⭐⭐ Entelech |
 
 **Key Differentiators:**
+- **Bespoke Agents vs Generic Workflows:** We build agents on your operations; they configure off-the-shelf tools
+- **Learning Systems:** Our agents improve weekly through feedback; their implementations are static after handoff
 - **Speed to Value:** 48 hours vs 3-6 months = 97% faster implementation
 - **Cost Efficiency:** 70-85% lower upfront investment
-- **Market Fit:** Purpose-built for growing service businesses
-- **Risk Reduction:** Fixed timeline and ROI guarantees
+- **Client Ownership:** You own the agent, the code, the data — no vendor dependency
 
 #### Sales Talking Points vs Traditional Consultants
 
@@ -37,7 +40,7 @@ We built our methodology specifically for businesses like yours that need result
 
 **Response:** "Experience absolutely matters, and you're right that [Firm] has been around longer. The question is: do you want experience with enterprise bureaucracy, or experience specifically with $100K-$2M service businesses? 
 
-We've done 47 implementations exclusively in your market segment. Our 48-hour methodology exists because we understand businesses like yours can't afford 6-month projects that might work eventually."
+We focus exclusively on your market segment. Our rapid implementation methodology exists because we understand businesses like yours can't afford 6-month projects that might work eventually."
 
 ---
 
@@ -50,11 +53,13 @@ We've done 47 implementations exclusively in your market segment. Our 48-hour me
 | **Setup Complexity** | Professional implementation | Medium learning curve | High learning curve | Very high technical skill | ⭐⭐⭐ Entelech |
 | **Time to Results** | 48 hours | 2-6 weeks (if successful) | 1-3 months | 3-6 months | ⭐⭐⭐ Entelech |
 | **Total Cost (Year 1)** | $8,500-$15,000 | $3,000-$8,000 + time | $2,400-$6,000 + time | $0-$2,000 + significant time | ⭐⭐ Competitive |
-| **Ongoing Support** | 24/7 professional support | Community forums | Microsoft support | Community only | ⭐⭐⭐ Entelech |
+| **Ongoing Support** | Dedicated professional support | Community forums | Microsoft support | Community only | ⭐⭐⭐ Entelech |
 | **Industry Expertise** | Service business specialist | Generic templates | Generic templates | No templates | ⭐⭐⭐ Entelech |
 | **Integration Complexity** | Pre-built service integrations | Limited connectors | Microsoft ecosystem only | Unlimited but complex | ⭐⭐ Entelech |
-| **AI Integration** | Native AI workflows | Limited AI features | Basic AI capabilities | Custom AI development | ⭐⭐ Entelech |
-| **Success Rate** | 94% completion rate | ~40% completion rate | ~30% completion rate | ~20% completion rate | ⭐⭐⭐ Entelech |
+| **AI Approach** | Bespoke agents that learn your operations | Workflow builder (static) | Workflow builder (static) | Workflow builder (requires dev skill) | ⭐⭐⭐ Entelech |
+| **Learning Capability** | Agents improve weekly through feedback | No learning | No learning | Manual retuning required | ⭐⭐⭐ Entelech |
+| **AI Integration** | Native AI agent orchestration | Limited AI features | Basic AI capabilities | Custom AI development | ⭐⭐⭐ Entelech |
+| **Success Rate** | Structured 6-phase delivery | ~40% completion rate | ~30% completion rate | ~20% completion rate | ⭐⭐⭐ Entelech |
 | **Scalability** | Enterprise-grade infrastructure | Platform limitations | Microsoft limits | Self-hosted scaling | ⭐⭐ Entelech |
 
 **Hidden Costs of DIY Solutions:**
@@ -71,6 +76,16 @@ We've done 47 implementations exclusively in your market segment. Our 48-hour me
 **Response:** "I love that you're thinking about automation - that's the most important step. Zapier is a great tool for simple tasks, but let me ask: how much time do you realistically have to learn a new platform and build complex workflows?
 
 Most business owners tell us they started with DIY solutions but never finished because they got too complex. Our approach gives you enterprise-grade automation without the learning curve. Think of us as your automation team, not just a tool."
+
+**When Prospect Says:** "Can't we just use ChatGPT/Claude ourselves?"
+
+**Response:** "You absolutely can — and you should be using AI tools directly. But there's a critical difference between using ChatGPT for individual tasks and having a bespoke agent built on your operations.
+
+ChatGPT doesn't know your dispatch rules, your proposal language, your client onboarding process, or the edge cases your team handles every day. It's a general-purpose tool. A bespoke agent is built on YOUR tribal knowledge — the things your best people know that aren't written down anywhere.
+
+Think of it this way: ChatGPT is a smart intern who shows up knowing nothing about your business. A bespoke agent is like an employee who's been trained on every process, every edge case, and every lesson learned — and who gets better every week through feedback. Which one do you want handling your revenue operations?"
+
+---
 
 **When Prospect Says:** "Our IT person says they can build this with Power Automate"
 
@@ -120,6 +135,43 @@ UiPath requires robotic process automation specialists. We handle service busine
 
 ---
 
+### Lead Gen Agencies & Outbound Services
+
+#### Entelech vs. Lead Gen Agencies
+
+| Feature/Capability | Entelech | Instantly/Smartlead Agencies | Pay-Per-Meeting Services | In-House SDR | Advantage |
+|-------------------|----------|------------------------------|-------------------------|--------------|-----------|
+| **Infrastructure Ownership** | Client owns everything | Agency owns everything | Agency owns everything | Company owns | ⭐⭐⭐ Entelech |
+| **Upfront Investment** | $500-$1,500 one-time | $2,000-$5,000/month | $0 upfront | $5,000-$8,000/month | ⭐⭐⭐ Entelech |
+| **Ongoing Cost** | $150-350/mo platform + optional $500/mo management | $2,000-$5,000/month | $200-500/meeting | $5,000-$8,000/month + tools | ⭐⭐⭐ Entelech |
+| **If You Stop Paying** | Infrastructure keeps working — you own it | Everything stops | Everything stops | Person leaves, process leaves | ⭐⭐⭐ Entelech |
+| **Data Ownership** | Client owns all lists, contacts, data | Agency retains data | Agency retains data | Company owns | ⭐⭐⭐ Entelech |
+| **Transparency** | Full visibility into setup, can modify yourself | Black box | Black box | Full visibility | ⭐⭐ Entelech |
+| **Path to Full RevOps** | Natural expansion to bespoke agents | Outbound only | Outbound only | Outbound only | ⭐⭐⭐ Entelech |
+| **Setup Speed** | 48-72 hours (Tier 1) to 1 week (Tier 2) | 2-4 weeks | 1-2 weeks | 2-3 months to ramp | ⭐⭐⭐ Entelech |
+
+**Key Differentiators:**
+- **Own vs Rent:** They rent you access to their infrastructure. We build it in your accounts and hand you the keys.
+- **Escape Velocity:** If you stop paying an agency, you start from zero. If you stop paying us, your infrastructure keeps running.
+- **Expand Path:** Lead gen agencies only do outbound. We start with outbound and expand to bespoke agents across your entire revenue operation.
+- **Cost Structure:** $500-$1,500 once vs $2,000-$5,000/month forever. The math is obvious.
+
+#### Sales Talking Points vs Lead Gen Agencies
+
+**When Prospect Says:** "We're already working with a lead gen agency"
+
+**Response:** "Great — that means you already know outbound works for your business. Quick question: who owns the sending domains, the inboxes, and the contact data? If you stopped paying them tomorrow, would any of that infrastructure still be working for you?
+
+Most agencies build on their infrastructure and rent you access. We build on yours. Same results, but you own the machine instead of renting it. And when you're ready to make the rest of your revenue operations work this well, we build bespoke agents on your lead scoring, proposals, and onboarding too."
+
+**When Prospect Says:** "Pay-per-meeting seems less risky"
+
+**Response:** "I get the appeal — you only pay for results. But think about what you're buying: meetings, not infrastructure. After 12 months of pay-per-meeting at $300 each, you've spent $36K+ and own nothing. No sending domains. No warmed inboxes. No data.
+
+For $1,500, we build your entire outbound infrastructure. You own it forever. If you want us to manage it, that's $500/month — still a fraction of what agencies charge, and you can walk away with everything at any time."
+
+---
+
 ### Regional/Local Competitors
 
 #### Entelech vs. Regional Business Consultants
@@ -127,13 +179,13 @@ UiPath requires robotic process automation specialists. We handle service busine
 | Feature/Capability | Entelech | Regional IT Consultants | Local Business Consultants | Advantage |
 |-------------------|----------|------------------------|----------------------------|-----------|
 | **Automation Expertise** | Specialized automation focus | General IT services | Business process focus | ⭐⭐⭐ Entelech |
-| **Service Business Focus** | 100% service business clients | Mixed client base | Mixed industries | ⭐⭐⭐ Entelech |
+| **Service Business Focus** | 100% service business focus | Mixed client base | Mixed industries | ⭐⭐⭐ Entelech |
 | **Implementation Speed** | 48-hour methodology | 2-6 months typical | 3-12 months planning | ⭐⭐⭐ Entelech |
 | **Technology Stack** | Enterprise-grade (Azure/n8n/AI) | Mixed/outdated platforms | Limited technical capability | ⭐⭐⭐ Entelech |
-| **Proven Results** | 47 documented case studies | Few automation case studies | Limited automation experience | ⭐⭐⭐ Entelech |
+| **Methodology** | Documented 6-phase delivery framework | Few automation case studies | Limited automation experience | ⭐⭐⭐ Entelech |
 | **Geographic Coverage** | Mid-Atlantic + Remote | Local only | Local only | ⭐⭐ Entelech |
 | **Scalability** | Designed for growth | Limited by local capacity | Process-focused, not tech | ⭐⭐ Entelech |
-| **Support Model** | 24/7 technical support | Business hours only | Consulting retainer model | ⭐⭐ Entelech |
+| **Support Model** | Dedicated technical support | Business hours only | Consulting retainer model | ⭐⭐ Entelech |
 
 **Local Competitor Advantages (Address Proactively):**
 - **Relationship History:** May have existing relationships
@@ -161,24 +213,29 @@ We work with clients across the Mid-Atlantic remotely and deliver better results
 ### Quick Reference: Entelech Advantages by Competitor Type
 
 #### vs. Traditional Consultants
-**Key Wins:** Speed (48 hours vs months), Cost (70% less), Risk (guaranteed ROI)
-**Proof Points:** 47 implementations, 94% completion rate, average 67-day ROI
-**Competitive Response:** "While they plan, you profit"
+**Key Wins:** Bespoke agents vs static implementations, Learning systems vs set-and-forget, Speed (48 hours vs months), Cost (70% less)
+**Proof Points:** Agents improve weekly (70% → 99%+), client owns everything, documented delivery framework
+**Competitive Response:** "They build static systems. We build agents that learn your business."
 
-#### vs. DIY Solutions  
-**Key Wins:** Expertise (done-for-you), Success Rate (94% vs 20-40%), Time Savings (your time vs learning time)
-**Proof Points:** Most DIY projects fail, hidden time costs, professional results
-**Competitive Response:** "Your time is worth more than learning automation"
+#### vs. DIY Solutions
+**Key Wins:** Agents vs workflows, Expertise (done-for-you), Success Rate (94% vs 20-40%), Tribal knowledge capture
+**Proof Points:** DIY tools build workflows — they can't capture your tribal knowledge or learn from your operations
+**Competitive Response:** "Zapier builds workflows. We build agents that understand your business."
 
 #### vs. Enterprise Solutions
-**Key Wins:** Right-sized complexity, Appropriate cost, Service business focus
-**Proof Points:** Built for $100K-$2M businesses, not $100M enterprises
-**Competitive Response:** "Right tool for the right job"
+**Key Wins:** Right-sized agents, Appropriate cost, Built on YOUR operations (not generic enterprise patterns)
+**Proof Points:** Enterprise SaaS can't capture tribal knowledge. Built for $100K-$2M businesses, not $100M enterprises.
+**Competitive Response:** "Generic SaaS doesn't know your business. A bespoke agent does."
+
+#### vs. Lead Gen Agencies
+**Key Wins:** Client ownership (own vs rent), Lower cost ($500-$1,500 vs $2K-$5K/month), Expansion path to full agent
+**Proof Points:** Client keeps infrastructure if they leave, $500 one-time vs $60K/year agency fees, natural path to RevOps agents
+**Competitive Response:** "They rent you leads. We build you the machine — and then the agent that runs your whole revenue operation."
 
 #### vs. Regional Competitors
-**Key Wins:** Specialization, Proven methodology, Enterprise technology
-**Proof Points:** 47 service business implementations, documented case studies
-**Competitive Response:** "Specialists deliver better results than generalists"
+**Key Wins:** Agent methodology, Learning systems, Client ownership of everything
+**Proof Points:** Specialized agent development for service businesses, agents that improve through feedback
+**Competitive Response:** "Generalists build one-off solutions. We build agents that get smarter every week."
 
 ### Objection Handling by Competitor
 
@@ -193,7 +250,7 @@ Our $12,000 investment delivers results in 48 hours. Which approach actually cos
 #### "They have more experience/larger company"
 **Response:** "Experience definitely matters - the question is experience with what? [Competitor] has experience with enterprise clients and 6-month projects.
 
-We have specific experience with 47 service businesses like yours implementing automation in 48 hours. Would you rather have someone experienced with problems like yours, or someone experienced with problems nothing like yours?"
+We specialize exclusively in service business automation with a documented delivery methodology. Would you rather have someone who specializes in problems like yours, or someone experienced with problems nothing like yours?"
 
 #### "They offer more features/capabilities"
 **Response:** "More features can actually be a disadvantage if they complicate what you're trying to accomplish. Let me ask: do you need every possible automation feature, or do you need the specific automations that will solve your current problems?
@@ -211,9 +268,10 @@ We focus on the 20% of automation capabilities that deliver 80% of the results f
 
 #### Competitive Win Strategies
 **Against Each Competitor Type:**
-- **Traditional:** Emphasize speed and guaranteed results
-- **DIY:** Focus on success rate and time value
+- **Traditional:** Emphasize bespoke agents that learn vs static implementations
+- **DIY:** Focus on agents vs workflows, success rate and time value
 - **Enterprise:** Right-sized solution for service businesses
+- **Lead Gen Agencies:** Own vs rent, lower cost, expansion path to full RevOps agent
 - **Regional:** Specialization and proven methodology
 
 ### Competitive Intelligence Monitoring

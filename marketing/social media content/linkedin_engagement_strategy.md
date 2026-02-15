@@ -58,7 +58,7 @@
 #### Value-Added Comments (Target: 80% of engagement)
 **Structure:** Insight + Question + Value
 **Examples:**
-- "Great point about [topic]. In our experience with 47+ implementations, we've seen [specific insight]. What's been your biggest challenge with [related issue]?"
+- "Great point about [topic]. In our experience building automation for service businesses, we've seen [specific insight]. What's been your biggest challenge with [related issue]?"
 - "This resonates with what we're seeing in the field. [Specific data point or trend]. Have you considered [actionable suggestion]?"
 
 #### Supportive Comments (Target: 15% of engagement)
@@ -70,7 +70,7 @@
 #### Question-Driving Comments (Target: 5% of engagement)
 **Structure:** Thoughtful Question + Context
 **Examples:**
-- "What's your take on [specific trend]? We're seeing mixed results in our client base."
+- "What's your take on [specific trend]? Curious what you're seeing on your end."
 - "How do you think [technology/approach] will evolve over the next 12 months?"
 
 ### Engagement Prioritization Matrix
@@ -132,7 +132,7 @@ Ethan
 ```
 Hi [First Name],
 
-Your insights on [specific topic] really resonated with my experience helping 47+ service businesses automate their operations. 
+Your insights on [specific topic] really resonated with my experience building automation systems for service businesses. 
 
 Would love to connect and share perspectives on [industry trend/challenge].
 
@@ -159,7 +159,7 @@ Ethan
 ```
 Thanks for connecting, [First Name]!
 
-I saw that you're focused on [their business/challenge]. We've helped 47+ service businesses eliminate manual bottlenecks with our 48-hour automation methodology.
+I saw that you're focused on [their business/challenge]. We specialize in helping service businesses eliminate manual bottlenecks through RevOps consulting and custom automation.
 
 Curious - what's your biggest operational challenge right now?
 

@@ -89,7 +89,7 @@ This 45-minute investment could generate $7,500+ in credits!
 
 EMAIL 3: CHAMPIONS COMMUNITY ACCESS (Day 7)
 
-Subject: Join 47 Other Champions in Our Exclusive Community
+Subject: Welcome to Our Exclusive Champions Community
 
 Dear [Champion Name],
 

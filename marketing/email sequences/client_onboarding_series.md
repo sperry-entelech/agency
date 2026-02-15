@@ -303,7 +303,7 @@ What we accomplished together in just 2 days is remarkable:
 
 ## Your Support System
 
-**24/7 Technical Support:** support@entelech.net | (804) 972-4550
+**Technical Support:** support@entelech.net | (804) 972-4550
 **Your Success Manager:** [Name] will check in weekly
 **Optimization Reviews:** Scheduled for [Date] and [Date]
 **Documentation:** Complete guides in your client portal

@@ -256,7 +256,7 @@
 "[Primary keyword] in 48 hours. Our proven methodology helps service businesses [specific benefit]. Get [specific result] - schedule consultation today."
 
 **Examples:**
-- "Discover when service businesses should automate processes for maximum ROI. Learn why $100K revenue is the critical automation inflection point from 47 real implementations. Calculate your automation opportunity."
+- "Discover when service businesses should automate processes for maximum ROI. Learn why $100K revenue is the critical automation inflection point and how to navigate it. Calculate your automation opportunity."
 
 - "Rapid automation deployment in 48 hours. Our proven methodology helps service businesses eliminate manual bottlenecks and scale efficiently. Get measurable results - schedule consultation today."
 

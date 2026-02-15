@@ -15,7 +15,7 @@
    - Slide 5: "Ready to break through? Link in comments"
 
 2. **Single Post:** Industry insight with statistic
-   - "At exactly $100K revenue, every service business faces the automation-or-stagnation crossroads. Our data from 47 implementations shows why this threshold matters..."
+   - "At exactly $100K revenue, every service business faces the automation-or-stagnation crossroads. Industry data shows why this threshold matters..."
 
 3. **Poll Post:** "What's your biggest automation concern at the $100K revenue mark?"
    - Option A: Finding time to implement

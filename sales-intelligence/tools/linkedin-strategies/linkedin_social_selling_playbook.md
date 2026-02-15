@@ -70,9 +70,9 @@ What are you seeing in your market?
 **Post Type:** Success story or transformation example
 **Template:**
 ```
-📈 "We went from chaos to control in 48 hours."
+📈 "We went from chaos to control in [timeframe]."
 
-That's what the CEO of a family trucking company told me after implementing automation across their 8 terminals.
+[Replace with real client testimonial when available. Template structure below:]
 
 The challenge:
 • [Specific operational problem]

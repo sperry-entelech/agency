@@ -176,7 +176,7 @@ This document defines the specific roles, responsibilities, and accountability s
 **Primary Accountability:** Ongoing technical support and issue resolution
 
 **Core Responsibilities:**
-- 24/7 technical support coverage and issue response
+- Technical support coverage and issue response
 - System monitoring and proactive maintenance
 - User training and technical assistance
 - Bug reproduction and initial troubleshooting

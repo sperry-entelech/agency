@@ -84,7 +84,7 @@ agency/
 - Automation opportunity list
 - Success criteria definition
 
-### **Phase 3**: Multi-Agent Processing (Revolutionary 30-Minute Engine)
+### **Phase 3**: Multi-Agent Processing (30-Minute Engine)
 **Duration**: 30 minutes maximum  
 **Tools**: Multi-agent automation system
 
@@ -308,7 +308,7 @@ Your enhanced sales process now includes:
 
 ---
 
-*This complete workflow integration transforms your existing sales intelligence into an unstoppable competitive advantage, combining proven industry expertise with revolutionary automation capabilities.*
+*This workflow integration connects existing sales intelligence with the multi-agent automation system for streamlined proposal generation.*
 
 **Integration Guide Version**: 1.0  
 **Date**: 2025-09-02  
